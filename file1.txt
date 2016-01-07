@@ -1,2 +1,2 @@
 this is file one
-I make some changes
+I make some changes after commit
